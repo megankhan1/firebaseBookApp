@@ -1,7 +1,7 @@
 {
   "name": "info1601demo",
   "version": "1.0.0",
-  "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/uwidcit/info1601demo)",
+  "description": "Firebase book app",
   "main": "index.js",
   "scripts": {
     "login": "firebase login --no-localhost",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/uwidcit/info1601demo#readme",
   "dependencies": {
-    "firebase-tools": "^13.6.0"
+    "firebase-tools": "^14.0.1"
   }
 }
