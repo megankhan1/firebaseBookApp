@@ -1,11 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBnyTSJNB9SOsx1-RPySp7OOzEOK06rM0c",
-    authDomain: "info1601-booksapp.firebaseapp.com",
-    projectId: "info1601-booksapp",
-    storageBucket: "info1601-booksapp.firebasestorage.app",
-    messagingSenderId: "568459881258",
-    appId: "1:568459881258:web:a37d518df9686e77120c53"
-  };
-
+  apiKey: "AIzaSyAegr5hRYUdqeWgDtAziP5NG7c2AHdLDzw",
+  authDomain: "lab-8-1bb2f.firebaseapp.com",
+  projectId: "lab-8-1bb2f",
+  storageBucket: "lab-8-1bb2f.firebasestorage.app",
+  messagingSenderId: "950838080981",
+  appId: "1:950838080981:web:5659177ad4a7f31caf795c"
+};
 
   export default firebaseConfig;
